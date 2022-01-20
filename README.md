@@ -19,4 +19,5 @@ Uzai, however, uses [A* path finding](https://en.wikipedia.org/wiki/A*_search_al
 **How to run:** 
 1. [Download the Installer](https://drive.google.com/file/d/1NkhRzG5-MIkEc-zz5hHi-uPTPnsDX7TE/view?usp=sharing)
 2. Install the application onto your device
-3. Run as you would any PC videogame (Note: Only Windows compatable)
+3. Run as you would any PC videogame</br>
+  _Note: Only Windows compatable_
