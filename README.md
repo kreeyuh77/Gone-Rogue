@@ -14,7 +14,7 @@ Uzai has mastered the art of hand-to-hand combat, but can only use this ability 
 The player can toggle between the three good ninjas, Kuro, Aka, and Midori. When the ninjas are in autonomous mode, that is when the player isn't currently controlling them, they wander the map. They do so by randomly selecting a waypoint on the map as target and sending out a [raycast](https://docs.unity3d.com/ScriptReference/Physics.Raycast.html) from their position to the target position. If the raycast returns true, the ninja repeats the process again. Otherwise, the ninja makes it's way to the waypoint and repeats the proces over and over again so long as it is in autonomous mode. 
 
 Uzai, however, uses [A* path finding](https://en.wikipedia.org/wiki/A*_search_algorithm) to navigate the map more intelligently. 
-</br>Language:C#
+</br>Language: C#
 </br>Software: Unity, Visual Studio Code, Windows OS
 
 **Link to download installer:** https://drive.google.com/file/d/1NkhRzG5-MIkEc-zz5hHi-uPTPnsDX7TE/view?usp=sharing
