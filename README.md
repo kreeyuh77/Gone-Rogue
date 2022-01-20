@@ -9,5 +9,7 @@ All three ninjas possess a unique ability. Master them and use it in battle to d
 To help defeat Uzai in battle, the people of Mell Town cooked sushi for the ninjas. Consuming sushi increases their speed for a short period of time and recharges their ability. 
 
 Uzai has mastered the art of hand-to-hand combat, but can only use this ability after collecting a gold coin. One hit from Uzai a short time after he has picked up a gold coin will leave each ninja unconcious for a breif period. Be careful around Uzai and good luck!
+**
+Technical Notes: </br>**
 
 **Link to download installer:** https://drive.google.com/file/d/1NkhRzG5-MIkEc-zz5hHi-uPTPnsDX7TE/view?usp=sharing
