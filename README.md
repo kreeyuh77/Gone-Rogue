@@ -1,4 +1,4 @@
-# Gone-Rouge
+# Gone Rouge
 In a land far far away in distance and time, four honor-bound ninjas vowed to defend the sleepy village of Mell Town from brutal invaders. Uza, Kuro, Aka, and Midori all ensured the people of Mell Town they and their precious coins would be protected. Without these coins, the village would collapse. 
 
 Uzai, the strongest in power, but weakest in will, fell victim to his own greed and decided to steal all of the silver and gold coins for himself! It is up to Kuro, Aka, and Midori to stop their fallen brother who has _Gone Rouge_!
