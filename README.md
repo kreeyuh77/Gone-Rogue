@@ -15,6 +15,8 @@ The player can toggle between the three good ninjas, Kuro, Aka, and Midori. When
 Uzai, however, uses [A* path finding](https://en.wikipedia.org/wiki/A*_search_algorithm) to navigate the map more intelligently. In order to implement the path finding algorithm, Uzai needed to determine his target, this target was always changing based on game several factors. Thus, Uzai has three states: collecting coins, runing from ninjas, and chasing ninjas. Take a look at [AiDestinationSetter](Assets/AstarPathfindingProject/Behaviors/AIDestinationSetter.cs) to find out more. </br>
 </br>**Tools:** Unity, C#, Visual Studio, Unity Collaboration, Windows OS
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k2xo6NWnljE?clip=UgkxjF2Zl-XELLnbarpDhc1_qiW02CiDRMTJ&amp;clipt=EO21qwcYzYqvBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **How to run:** 
 1. [Download the Installer](https://drive.google.com/file/d/1NkhRzG5-MIkEc-zz5hHi-uPTPnsDX7TE/view?usp=sharing)
 2. Install the application onto your device
