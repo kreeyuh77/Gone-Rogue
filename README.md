@@ -1,7 +1,7 @@
 # Gone Rogue
 In a land far far away in distance and time, four honor-bound ninjas vowed to defend the sleepy village of Mell Town from brutal invaders. Uza, Kuro, Aka, and Midori all ensured the people of Mell Town they and their precious coins would be protected. Without these coins, the village would collapse. 
 
-Uzai, the strongest in power, but weakest in will, fell victim to his own greed and decided to steal all of the silver and gold coins for himself! It is up to Kuro, Aka, and Midori to stop their fallen brother who has _Gone Rouge_!
+Uzai, the strongest in power, but weakest in will, fell victim to his own greed and decided to steal all of the silver and gold coins for himself! It is up to Kuro, Aka, and Midori to stop their fallen brother who has _Gone Rogue_!
 
 All three ninjas possess a unique ability. Master them all and use it them battle to defeat Uzai before he collects all of the coins. The black ninja, Kuro, through a lifetime of training has the unique ability to throw a shuriken with perfect form. One hit from Kuro's shuriken cuases damage and slows Uzai down. The red ninja, Aka, possesses the most finely crafted sword the land has ever known! A strike from Aka's blade cuases greate damage to Uzai and slows him down. The blade is the strongest weapon, but be careful as you have to get close to use it. The greeen ninja, Midori, is an expert tactician who has the unique ability to set up a trap anywhere in the village. The trap causes damage to Uzai, and can be used to lock him in place until the trap deteriorates. Each ability has a cool-down period in which the ninjas need to recuperate their stamina. So, it is important to choose your shots wisely!
 
