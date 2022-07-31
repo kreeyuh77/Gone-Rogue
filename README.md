@@ -16,8 +16,7 @@ Uzai, however, uses [A* path finding](https://en.wikipedia.org/wiki/A*_search_al
 </br>**Tools:** Unity, C#, Visual Studio, Unity Collaboration, Windows OS
 
 
-[![Gone Rogue Gamplay Link](https://github.com/Alizarosebud3/Gone-Rouge/blob/master/GoneRogueGamePlay.gif)](https://youtu.be/k2xo6NWnljE?t=15392) (edited)
-[2:31 PM]
+[![Gone Rogue Gamplay Link](https://github.com/Alizarosebud3/Gone-Rouge/blob/master/GoneRogueGamePlay.gif)](https://youtu.be/k2xo6NWnljE?t=15392)
 
 
 **How to run:** 
