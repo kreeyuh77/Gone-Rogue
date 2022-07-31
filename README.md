@@ -14,8 +14,11 @@ The player can toggle between the three good ninjas, Kuro, Aka, and Midori. When
 
 Uzai, however, uses [A* path finding](https://en.wikipedia.org/wiki/A*_search_algorithm) to navigate the map more intelligently. In order to implement the path finding algorithm, Uzai needed to determine his target, this target was always changing based on game several factors. Thus, Uzai has three states: collecting coins, runing from ninjas, and chasing ninjas. Take a look at [AiDestinationSetter](Assets/AstarPathfindingProject/Behaviors/AIDestinationSetter.cs) to find out more. </br>
 </br>**Tools:** Unity, C#, Visual Studio, Unity Collaboration, Windows OS
+
+
 [![Gone Rogue Gamplay Link](https://github.com/Alizarosebud3/Gone-Rouge/blob/master/GoneRogueGamePlay.gif)](https://youtu.be/k2xo6NWnljE?t=15392) (edited)
 [2:31 PM]
+
 
 **How to run:** 
 1. [Download the Installer](https://drive.google.com/file/d/1NkhRzG5-MIkEc-zz5hHi-uPTPnsDX7TE/view?usp=sharing)
